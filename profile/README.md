@@ -7,7 +7,7 @@
 
 <td width="230" align="center" valign="middle">
 
-<img src="https://w7.pngwing.com/pngs/814/702/png-transparent-logo-brand-danger-zone-video-game-design-danger-zone-text-area-video.png" width="200"><br>
+<img src="https://dangerzone.rocks/assets/img/logo.png" width="200"><br>
 
 <a href="https://mac-share-apps.github.io/.github/dangerzone">
   <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
